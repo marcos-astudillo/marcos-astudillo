@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Marcos Antonio Astudillo C. (He/Him)
 
 💻 Software Engineer | Full-Stack Developer | Node.js, React, TypeScript | Backend. Cloud Engineering & API Development
+
 🔎 Passionate about solving real-world problems with robust, scalable software and clean code.
 
 ---
