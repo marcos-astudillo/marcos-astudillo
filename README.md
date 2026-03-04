@@ -5,12 +5,19 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcos-astudillo&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcos-astudillo&show_icons=true&theme=tokyonight" height="165" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-astudillo&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-astudillo&layout=compact&theme=tokyonight" height="165" />
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=marcos-astudillo&label=Profile%20views&color=blueviolet&style=flat-square)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=marcos-astudillo&theme=tokyonight" height="165" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=marcos-astudillo&label=Profile%20views&color=blueviolet&style=flat-square" />
+</p>
 
 ---
 
