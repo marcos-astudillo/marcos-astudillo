@@ -1,8 +1,9 @@
-# 👋 Hi, I’m Marcos Antonio Astudillo C. (He/Him)
+# 👋 Hi, I'm Marcos Astudillo
 
-💻 Software Engineer | Full-Stack Developer | Node.js, React, TypeScript | Backend | Cloud Engineering & API Development
+**Full-Stack Software Engineer | TypeScript, React, Node.js, PostgreSQL**
 
-🔎 Passionate about solving real-world problems with robust, scalable software and clean code.
+🌎 Based in Chile · Open to full-stack roles: **remote, Chile or Canada** (Canadian work permit)
+🗣️ Spanish (native) · English (professional)
 
 ---
 
@@ -14,186 +15,62 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcos-astudillo&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marcos-astudillo&label=Profile%20views&color=blueviolet&style=flat-square"/>
-</p>
+---
+
+## 🧠 About me
+
+Full-stack engineer with 4+ years building and shipping web applications. I started in a software company working with **Django, Angular and PostgreSQL**, and since late 2025 I run **Velyntix Tech**, where I design, build and sell my own software products end to end (backend, frontend, payments, licensing and distribution).
+
+I care about secure, maintainable systems: input validation, auth, rate limiting, sensible data modeling and production basics like CI, logging and health checks.
+
+## 🚀 What I'm building: Velyntix Tech
+
+| Product | What it is | Stack |
+|---|---|---|
+| **NetSentinex** | Desktop security monitoring: CVE detection, file integrity monitoring (FIM) and a lightweight SIEM | Go, Wails |
+| **NextLicense** ([live](https://nextlicense.velyntixtech.com)) | SaaS licensing platform: HMAC-SHA256 licenses with runtime validation, Stripe subscriptions, automatic license delivery after payment | React, PHP, Stripe |
+| **Cloud-Viewer** | Local web viewer for LiDAR point clouds (import, alignment, georeferencing, LAS/CSV/DXF export), licensed through NextLicense | Python, Potree (WebGL) |
+| **GeoAI** (MVP) | Connects Claude to Civil 3D through an MCP server exposing 13 topographic analysis tools | C# .NET 8, MCP |
+
+## 🧰 Tech stack
+
+- **Languages:** TypeScript, JavaScript, Go, Python, SQL, PHP, C#
+- **Frontend:** React, Next.js, Angular, Tailwind CSS
+- **Backend:** Node.js, Express, Fastify, Django, Prisma, REST APIs, OpenAPI/Swagger
+- **Databases:** PostgreSQL, MySQL, Redis
+- **Infra & tooling:** Docker, GitHub Actions (CI/CD), Linux, Git, Postman
+- **Security:** HMAC-SHA256, bcrypt, OAuth/JWT, rate limiting, input validation, OWASP Top 10
+- **Integrations & messaging:** Stripe (Checkout, webhooks), Kafka, BullMQ
+- **Testing:** Vitest, unit testing
+- **Coursework / exposure (not daily drivers):** Java, MongoDB, Azure, AWS; GCP (capstone project at Algonquin College)
+
+## 📦 Selected projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Daily Update App](https://github.com/marcos-astudillo/Daily-Update-App) | Productivity dashboard with trend analytics | Next.js, Prisma, PostgreSQL, TypeScript, Vitest |
+| [Hotel Booker](https://github.com/marcos-astudillo/hotel-booker-fullstack) | Hotel reservation system with JWT auth and full CRUD | Django REST, Angular, PostgreSQL |
+| [Redis Rate Limiter](https://github.com/marcos-astudillo/redis-rate-limiter) | Distributed rate limiting service (Token Bucket with Lua scripts for atomic operations) | Node.js, TypeScript, Redis, PostgreSQL |
+| [Flashlink](https://github.com/marcos-astudillo/flashlink) | URL shortener API with Redis cache-aside, async analytics and rate limiting | Fastify, PostgreSQL, Redis, BullMQ |
+| [TS API Gateway](https://github.com/marcos-astudillo/ts-api-gateway) | Microservices gateway with JWT (Auth0), distributed rate limiting, circuit breaker and routing | Fastify, TypeScript, Redis |
+| [Autocomplete Service](https://github.com/marcos-astudillo/autocomplete-service) | Autocomplete backend with Redis cache-aside, in-memory Trie and decay-based ranking | TypeScript, PostgreSQL, Docker |
+| [Recoflow](https://github.com/marcos-astudillo/recoflow) | Real-time recommendation pipeline (candidate generation and ranking) | Node.js, Kafka, Redis, PostgreSQL |
+| [Distributed Job Queue](https://github.com/marcos-astudillo/distributed-job-queue) | Job queue with retries and scheduling | TypeScript |
+| [Analytics Pipeline](https://github.com/marcos-astudillo/analytics-pipeline) | Analytics backend | Node.js, TypeScript, Redis |
+| [System Design Notes](https://github.com/marcos-astudillo/system-design-notes) | Architecture notes and exercises: distributed systems, scalability, APIs, trade-off analysis | Documentation |
+| [Sociolingo](https://github.com/marcos-astudillo/Sociolingo) | Language-practice chat app | Flutter, Dart, Firebase, Node.js |
+| [Portfolio](https://github.com/marcos-astudillo/webpage-portfolio) | Bilingual (EN/ES) site with CI/CD and a PHP contact form backend | React, TypeScript, Vite |
+
+## 📚 Currently learning
+
+- Full Stack Developer certification, University of Helsinki (**in progress**, not completed yet)
+- GraphQL, deeper PostgreSQL/Prisma tuning, and distributed systems design
+
+## 📫 Let's connect
+
+- 🌐 Website: [marcosastudillo.com](https://marcosastudillo.com)
+- 💼 LinkedIn: [marcos-astudillo-c](https://www.linkedin.com/in/marcos-astudillo-c/)
 
 ---
 
-## 🧠 About Me
-
-I’m a Full-Stack Software Developer specialized in building scalable web applications using TypeScript, Node.js, React, and modern cloud technologies.
-
-My experience includes backend API development, database design, DevOps workflows, and building real-world software solutions using Agile practices.
-
-I enjoy solving complex problems, improving system performance, and designing clean, maintainable architectures.
-
-Currently exploring advanced backend engineering, cloud platforms, and modern full-stack architectures.
-
----
-## 🧰 Tech & Project Badges
-
-![GitHub Actions](https://github.com/marcos-astudillo/Daily-Update-App/actions/workflows/ci.yml/badge.svg)
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Made with TypeScript](https://img.shields.io/badge/Made%20with-TypeScript-blue)
-![Next.js](https://img.shields.io/badge/Framework-Next.js-000000?logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-38B2AC)
-![Firebase](https://img.shields.io/badge/Backend-Firebase-yellow)
-![Flutter](https://img.shields.io/badge/Mobile-Flutter-02569B?logo=flutter)
-
-## 🛠️ Tech Stack & Tools
-
-- **Languages**: TypeScript, JavaScript, Python, Java, SQL
-- **Frontend**: React, Next.js, TailwindCSS 
-- **Backend**: Node.js, Django, Flask, REST APIs 
-- **Databases**: PostgreSQL, MySQL, Firebase, SQLite, MongoDB  
-- **DevOps**: Azure, Docker, GitHub Actions, Jenkins, AWS  
-- **Testing**: Vitest, xUnit, Selenium, QA Automation  
-- **Tools**: Git, Postman, Jira, Visual Studio, VS Code, Prisma, Railway  
-
-## ⚙ Engineering Skills
-
-- REST API Design
-- Microservices Architecture
-- Database Optimization
-- CI/CD Pipelines
-- Cloud Deployment
-- Performance Optimization
-- Agile Development (SCRUM)
-
-## 🏗 Architecture & Design Interests
-
-- Scalable system design
-- API architecture and service communication
-- Database schema design and optimization
-- Event-driven systems
-- Cloud-native application architecture
-
----
-## 💡 What I Build
-
-I design and build scalable applications focused on performance, clean architecture, and real-world usability.
-
-My work typically involves:
-
-- Scalable full-stack web applications
-- REST API design and backend systems
-- Cloud deployment and CI/CD pipelines
-- AI integrations and data-driven features
-
-## ⚙ Engineering Principles
-
-- Write maintainable and readable code
-- Prefer simple architectures over unnecessary complexity
-- Design APIs with clear contracts
-- Automate testing and CI/CD whenever possible
-- Focus on scalability and performance
-
-## 🚀 Featured Projects
-
-### 📘 [Daily Update App](https://github.com/marcos-astudillo/Daily-Update-App)
-
-![CI](https://github.com/marcos-astudillo/Daily-Update-App/actions/workflows/ci.yml/badge.svg)
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-![Built with Next.js](https://img.shields.io/badge/Framework-Next.js-000000?logo=next.js)
-![Styled with TailwindCSS](https://img.shields.io/badge/Style-TailwindCSS-38B2AC)
-![Database: PostgreSQL](https://img.shields.io/badge/DB-PostgreSQL-336791?logo=postgresql)
-![Tested with Vitest](https://img.shields.io/badge/Tested%20With-Vitest-yellowgreen)
-
-> A full-stack internal tool to log, analyze, and reflect on daily progress.
-
-**Tech**: Next.js 15, Prisma, Tailwind CSS, PostgreSQL, TypeScript
-
-**Key Features**
-
-- Submit & filter daily logs with user-based tracking  
-- Calendar-based word stats & analytics dashboards  
-- Dark/light mode toggle + responsive UI  
-- GitHub Actions CI + full testing coverage (Vitest)
-
-**Architecture**
-
-- **Frontend:** Next.js 15 + React + TailwindCSS  
-- **Backend:** Next.js API routes / Server Actions  
-- **Database:** PostgreSQL  
-- **ORM:** Prisma  
-- **CI/CD:** GitHub Actions  
-- **Deployment:** Vercel  
-
-🌐 [Live Demo](https://dailyupdate-mac.vercel.app)
-
----
-
-### 💬 [Sociolingo Chat App](https://github.com/marcos-astudillo/Project1)
-
-![Built with Flutter](https://img.shields.io/badge/Mobile-Flutter-02569B?logo=flutter)
-![Backend with Node.js](https://img.shields.io/badge/API-Node.js-339933?logo=node.js)
-![Auth: Firebase](https://img.shields.io/badge/Auth-Firebase-yellow)
-![AI-Powered](https://img.shields.io/badge/AI-GPT_3.5-ff69b4)
-
-> AI-powered multilingual chat system designed to enable real-time communication with integrated language translation.
-
-**Tech**: Flutter, Dart, Firebase, Node.js, OpenAI API
-
-**Key Features**
-
-- Real-time chat with automatic language translation using OpenAI (GPT-3.5)  
-- Multilingual interface supporting English, Spanish, and French  
-- Firebase Authentication for secure user access  
-- Cloud Messaging and Firestore integration for real-time data synchronization  
-- User presence indicators, notifications, and mobile-optimized UI  
-
-**Architecture**
-
-- **Frontend:** Flutter (Dart) mobile application  
-- **Backend API:** Node.js services for chat and translation handling  
-- **Authentication:** Firebase Authentication  
-- **Database:** Firebase Firestore (real-time data storage)  
-- **Messaging:** Firebase Cloud Messaging  
-- **AI Integration:** OpenAI API for real-time translation and language processing  
-- **Deployment:** Firebase Hosting / Cloud infrastructure  
-
-🌐 [Live Demo](https://sociolingo-project.web.app)
-
----
-
-### 🤖 Experimental Projects & AI Integrations
-I regularly build and test small projects with **third-party APIs**, **OpenAI**, and **REST integrations** to sharpen skills in **language processing**, **data analysis**, and **user interaction**.
-
----
-
-## 🎯 Open to Opportunities
-
-- Full-Time Remote or Hybrid Developer Roles  
-- Software Developer, Software Engineer, or Full Stack positions  
-- AI-Enhanced Tools, Analytics Platforms, and SaaS Projects  
-
----
-
-## 🔍 Currently Learning
-
-- GraphQL APIs & Serverless Functions  
-- Vue & React Ecosystems  
-- Advanced DevOps (CI/CD with GitHub Actions & Docker)  
-- Systems Architecture Design & Software Design Patterns  
-- Deepening expertise in PostgreSQL, Prisma, and full-stack deployment  
-
----
-
-## 📜 Certifications & Learning
-
-- 🎓 Full Stack Developer – Helsinki University  
-- 🐍 Python Mastery (Django, Flask, Tkinter) – Udemy  
-- ☁️ Cybersecurity & Cloud Computing – LinkedIn  
-- 🐳 Docker & GitHub Actions – Udemy + LinkedIn  
-- 📊 SQL Concepts, Git, Agile & Testing Foundations
-
----
-
-## 📫 Connect With Me
-
-[![🌍 Portfolio](https://img.shields.io/badge/Website-marcosastudillo.com-blueviolet?style=for-the-badge&logo=google-chrome)](https://www.marcosastudillo.com)
-[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Astudillo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcos-astudillo-c/)
-[![🐱 GitHub](https://img.shields.io/badge/GitHub-Marcos%20Astudillo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcos-astudillo)
-[![🌎 Vanhack](https://img.shields.io/badge/Vanhack-Marcos%20Astudillo-orange?style=for-the-badge&logo=Vercel)](https://vanhack.com/vanhacker/b1b0dc1c-92a8-4687-8e3b-92da789a728c)
-
+*Español: ingeniero full-stack con base en Chile, disponible para roles remotos, en Chile o en Canadá.*
